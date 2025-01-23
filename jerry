@@ -1,9 +1,9 @@
 <html>
 
 <body>
-  <h1>Caesar</h1>
+  <h1>YOUR NAME</h1>
   <p>Welcome to my website!</p>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ4YmNzNTVkNWFjOHJtMDdvMm9mbTQ0ems5MGE3dzZ0ZXFzcHkzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PmfazpGVyBnX87kZF/giphy.gif" />
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
 
 </html>
