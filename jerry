@@ -5,12 +5,12 @@
   <h1>YOUR NAME</h1>
   <p>Welcome to my website!</p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
+
 
 <div class="grid_container">
   <div id="box"><span>Young Jerry</span></div>
   <div id="box2"><span>Middle aged Jerry</span></div>
   </div>
-   
+   </body>
   
 </html>
